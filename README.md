@@ -17,5 +17,4 @@ A minimalist desktop app  to managae students record. **record are saved directl
 ## `Viewing Students Records`
 <img src="ScreenShot/ViewData.JPG">
 
-## ``Records Saved in Excel File``
-<img src="ScreenShot/ViewExcel.JPG">
+<
